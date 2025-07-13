@@ -1,2 +1,1 @@
-# BikyaAPIv1
-Api Bikya
+# Bikya
